@@ -19,7 +19,7 @@ Este projeto é um simples **ESP (Extra Sensory Perception)** para o jogo **Assa
 - **Python 3.9+**
 - [pymem](https://pypi.org/project/pymem/)
 - [pyray](https://pypi.org/project/pyray/)
-- Dependências adicionais: `helper.py` (deve conter estruturas como `Pointer`, `Entity`, `Vec3` e funções como `world_to_screen`).
+- Dependências adicionais: `helper.py`.
 
 ## 🛠 Instalação
 
