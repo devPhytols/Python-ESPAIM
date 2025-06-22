@@ -42,7 +42,7 @@ pip install pymem pyray
 2 - Execute o script:
 
 ```bash
-python esp.py
+python main.py
 ```
 
 ## 📌 Observações
